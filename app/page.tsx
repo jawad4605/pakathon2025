@@ -18,7 +18,7 @@ export default function Home() {
       {/* Hero */}
       <header className="hero">
         <div>
-          <span className="pill">Oct 3rd–4th, 2025 • Innovista DHA Business Hub Auditorium, Lahore</span>
+          <span className="pill">We are coming to Multan</span>
           <h1>Build. Innovista. Heal.</h1>
           <p className="sub">
             A 30-hour hackathon in Lahore to create AI tools for mental wellbeing.
@@ -111,11 +111,11 @@ export default function Home() {
         <div className="card">
           <h3 style={{ marginTop: 0 }}>Schedule (Lahore)</h3>
           <ul className="list">
-            <li><b>Fri 9:00</b> Check-in</li>
-            <li><b>Fri 10:00</b> Keynote & challenge reveal</li>
-            <li><b>Fri 11:00</b> Competition starts</li>
-            <li><b>Sat 12:00</b> Submissions close</li>
-            <li><b>Sat 15:00</b> Awards & sponsor mixer</li>
+            <li><b> 9:00</b> Check-in</li>
+            <li><b> 10:00</b> Keynote & challenge reveal</li>
+            <li><b> 11:00</b> Competition starts</li>
+            <li><b> 12:00</b> Submissions close</li>
+            <li><b> 15:00</b> Awards & sponsor mixer</li>
           </ul>
         </div>
         <div className="card">
