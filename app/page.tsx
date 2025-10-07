@@ -21,7 +21,7 @@ export default function Home() {
           <span className="pill">We are coming to Multan</span>
           <h1>Build. Innovista. Heal.</h1>
           <p className="sub">
-            A 30-hour hackathon in Lahore to create AI tools for mental wellbeing.
+            A 30-hour hackathon in Multan to create AI tools for mental wellbeing.
             Join developers, designers, and founders to prototype real solutions and win prizes, mentorship, and interviews.
           </p>
           <div style={{ display: "flex", gap: "14px", marginTop: "20px" }}>
@@ -109,7 +109,7 @@ export default function Home() {
       {/* Schedule + Sponsors Section */}
       <section className="section grid">
         <div className="card">
-          <h3 style={{ marginTop: 0 }}>Schedule (Lahore)</h3>
+          <h3 style={{ marginTop: 0 }}>Schedule (Multan)</h3>
           <ul className="list">
             <li><b> 9:00</b> Check-in</li>
             <li><b> 10:00</b> Keynote & challenge reveal</li>
