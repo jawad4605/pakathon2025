@@ -45,13 +45,14 @@ export default function Home() {
       {/* Details Section */}
       <section id="details" className="section grid">
         <div className="card">
-          <h3>When & Where</h3>
+          <h3>Venues & Dates</h3>
           <ul className="list">
-            <li>📅 <b>Oct 3rd–4th, 2025</b> (Fri–Sat)</li>
-            <li>📍 <b>Innovista DHA Business Hub Auditorium</b>, Lahore</li>
-            <li>🕘 30-hour build → Demos → Awards </li>
+            <li>✅ <b>Lahore:</b> Oct 3rd–4th, 2025 (Completed) — Innovista DHA Business Hub Auditorium</li>
+            <li>🟡 <b>Multan:</b> Oct 13th–14th, 2025 (Tentative) — Venue TBA</li>
+            <li>🔵 <b>Islamabad:</b> Coming Soon — Dates to be announced</li>
           </ul>
         </div>
+
         <div className="card">
           <h3>Who Should Join</h3>
           <ul className="list">
@@ -108,7 +109,7 @@ export default function Home() {
       {/* Schedule + Sponsors Section */}
       <section className="section grid">
         <div className="card">
-          <h3 style={{ marginTop: 0 }}>Schedule</h3>
+          <h3 style={{ marginTop: 0 }}>Schedule (Lahore)</h3>
           <ul className="list">
             <li><b>Fri 9:00</b> Check-in</li>
             <li><b>Fri 10:00</b> Keynote & challenge reveal</li>
@@ -131,7 +132,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="footer">
-        © 2025 Pakathon · A VieroMind initiative · Lahore, Pakistan
+        © 2025 Pakathon · A VieroMind initiative · Lahore, Multan, Islamabad
       </footer>
     </div>
   );
