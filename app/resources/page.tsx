@@ -108,7 +108,7 @@ export default function Resources() {
                     <h3>🔑 OpenAI API Resource</h3>
                     <p>Download credentials & starter kit for integration.</p>
                     <a className="btn" target="_blank" rel="noopener"
-                        href="https://drive.google.com/file/d/14z7E2-tUx76z9N0BwY_finzyhceuEM5K/view?usp=sharing">
+                        href="https://docs.google.com/document/d/12x1VyBt6I_NHo3QagFjCWD1gmZa3yD6cOb8hP431NNY/edit?usp=sharing">
                         Download API File
                     </a>
                 </div>
