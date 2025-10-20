@@ -75,8 +75,8 @@ export default function Resources() {
             {/* Projects */}
             <section id="projects" className="section grid">
                 <div className="card">
-                    <h3>📂 Build a Viral MBTI Personality Assessment</h3>
-                    <p>MBTI test & scoring engine for VieroMind.com.</p>
+                    <h3>📂  AI IQ Test Challenge </h3>
+                    <p> Pakathon AI IQ Test Challenge </p>
                     <a className="btn" target="_blank" rel="noopener"
                         href="https://drive.google.com/drive/folders/1SLEcXGBv4ECQLo0yNjTHsNn-aCT7sP9Z?usp=sharing">
                         View Project
