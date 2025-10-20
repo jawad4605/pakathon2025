@@ -11,7 +11,7 @@ export default function Resources() {
             alert("Please enter a username");
             return;
         }
-        setConnectionString("⏳ Creating database...");
+        setConnectionString("⏳ Creating database..");
         try {
             const res = await fetch("/api/create-user-db", {
                 method: "POST",
