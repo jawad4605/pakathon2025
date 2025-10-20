@@ -100,6 +100,19 @@ export default function Resources() {
                         View Project
                     </a>
                 </div>
+
+                {/* New Project: PalmPilot */}
+                <div className="card">
+                    <h3>📂 PalmPilot – Read My Palm</h3>
+                    <p>
+                        Upload your palm photo, get insights from the VieroMind Palm API,
+                        and share your results with beautiful, locally inspired visuals.
+                    </p>
+                    <a className="btn" target="_blank" rel="noopener"
+                        href="https://drive.google.com/drive/folders/1sdV3GC55ymDbaI_xUea9o-9aUYtufPeh?usp=sharing">
+                        View Project
+                    </a>
+                </div>
             </section>
 
             {/* OpenAI API */}
